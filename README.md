@@ -69,18 +69,6 @@ Les principaux objectifs sont :
 ## Architecture du Pipeline de Données
 
 Le pipeline suit une architecture en couches :
-
-Données Source (CSV)
-↓
- Azure Blob Storage (Raw Data Layer)
-↓
-Azure Data Factory (Pipeline d’ingestion)
-↓
-Azure Synapse Analytics (Data Warehouse)
-↓
-Power BI (Visualisation)
-
-Azure Purview est utilisé pour la gouvernance et le suivi du lineage des données.
 ![azure architecture](https://drive.google.com/uc?export=view&id=1oXyJ-vTIZdIVQpboOFlaIrodOPJkxmLC)
 ---
 
