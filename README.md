@@ -69,6 +69,7 @@ Les principaux objectifs sont :
 ## Architecture du Pipeline de Données
 
 Le pipeline suit une architecture en couches :
+
 ![azure architecture](https://drive.google.com/uc?export=view&id=1oXyJ-vTIZdIVQpboOFlaIrodOPJkxmLC)
 ---
 
