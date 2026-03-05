@@ -81,7 +81,7 @@ Azure Synapse Analytics (Data Warehouse)
 Power BI (Visualisation)
 
 Azure Purview est utilisé pour la gouvernance et le suivi du lineage des données.
-![azure architeture](https://drive.google.com/file/d/1oXyJ-vTIZdIVQpboOFlaIrodOPJkxmLC/view?usp=sharing)
+![azure architecture](https://drive.google.com/uc?export=view&id=1oXyJ-vTIZdIVQpboOFlaIrodOPJkxmLC)
 ---
 
 ## Description du Dataset
