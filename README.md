@@ -35,31 +35,31 @@ Les principaux objectifs sont :
 
 ## Stack Technologique
 
-### ☁️ Cloud et Plateforme Data
+### Cloud et Plateforme Data
 
 * Microsoft Azure
 
-### 💾 Stockage des données
+### Stockage des données
 
 *  Azure Blob Storage
 
-### 🔄 Intégration des données
+### Intégration des données
 
 * Azure Data Factory
 
-### 🏢 Data Warehouse
+### Data Warehouse
 
 * Azure Synapse Analytics
 
-### 🔐 Gouvernance des données
+### Gouvernance des données
 
 * Azure Purview
 
-### 📊 Business Intelligence
+### Business Intelligence
 
 * Power BI
 
-### 🤝 Outils collaboratifs
+### Outils collaboratifs
 
 * GitHub
 * Jira
