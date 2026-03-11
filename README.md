@@ -204,7 +204,7 @@ Pour organiser et suivre le projet, nous avons utilisé **Jira**, un outil de ge
 ### Lien vers le Board Jira
 
 Pour consulter le suivi en temps réel :  
-[Jira Board - Apple Global Sales Intelligence Project]([https://your-jira-link.com](https://haitlachgar-1770109659851.atlassian.net/jira/software/projects/ADFS/boards/34?atlOrigin=eyJpIjoiNTI3ODM2OThkZjFmNDFiMzlkZTQwZmM1ZDE2NmIwMWIiLCJwIjoiaiJ9)
+[Jira Board - Apple Global Sales Intelligence Project](https://haitlachgar-1770109659851.atlassian.net/jira/software/projects/ADFS/boards/34?atlOrigin=eyJpIjoiNTI3ODM2OThkZjFmNDFiMzlkZTQwZmM1ZDE2NmIwMWIiLCJwIjoiaiJ9)
 ---
 
 ## Conclusion
