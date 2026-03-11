@@ -187,6 +187,25 @@ Durée : 3 Mars → 13 Mars
 Projet réalisé dans le cadre d’une formation en data analytics.
 
 ---
+## Planification et Suivi du Projet avec Jira
+
+Pour organiser et suivre le projet, nous avons utilisé **Jira**, un outil de gestion de projet agile permettant de créer des tâches, assigner des responsabilités et suivre l’avancement.
+
+### Méthodologie
+
+* **Sprints** : Le projet est découpé en 2 sprints de 1 semaine chacun.
+* **Tâches principales** :
+  - Préparation et nettoyage du dataset
+  - Conception du Data Warehouse
+  - Développement du pipeline ADF
+  - Création des KPIs et dashboards Power BI
+* **Suivi** : Chaque tâche est suivie via Jira avec un **statut** (`To Do`, `In Progress`, `Done`) et un **responsable assigné**.
+
+### Lien vers le Board Jira
+
+Pour consulter le suivi en temps réel :  
+[Jira Board - Apple Global Sales Intelligence Project]([https://your-jira-link.com](https://haitlachgar-1770109659851.atlassian.net/jira/software/projects/ADFS/boards/34?atlOrigin=eyJpIjoiNTI3ODM2OThkZjFmNDFiMzlkZTQwZmM1ZDE2NmIwMWIiLCJwIjoiaiJ9)
+---
 
 ## Conclusion
 
