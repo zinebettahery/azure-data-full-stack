@@ -1,0 +1,141 @@
+CustomerKey,CustomerSegment,CustomerAgeGroup,PreviousDeviceOS
+1,Business,18–24,Android
+2,Business,18–24,iOS 15
+3,Business,18–24,iOS 16
+4,Business,18–24,iOS 17
+5,Business,18–24,New User
+6,Business,18–24,Other
+7,Business,18–24,Unknown
+8,Business,25–34,Android
+9,Business,25–34,iOS 15
+10,Business,25–34,iOS 16
+11,Business,25–34,iOS 17
+12,Business,25–34,New User
+13,Business,25–34,Other
+14,Business,25–34,Unknown
+15,Business,35–44,Android
+16,Business,35–44,iOS 15
+17,Business,35–44,iOS 16
+18,Business,35–44,iOS 17
+19,Business,35–44,New User
+20,Business,35–44,Other
+21,Business,35–44,Unknown
+22,Business,45–54,Android
+23,Business,45–54,iOS 15
+24,Business,45–54,iOS 16
+25,Business,45–54,iOS 17
+26,Business,45–54,New User
+27,Business,45–54,Other
+28,Business,45–54,Unknown
+29,Business,55+,Android
+30,Business,55+,iOS 15
+31,Business,55+,iOS 16
+32,Business,55+,iOS 17
+33,Business,55+,New User
+34,Business,55+,Other
+35,Business,55+,Unknown
+36,Education,18–24,Android
+37,Education,18–24,iOS 15
+38,Education,18–24,iOS 16
+39,Education,18–24,iOS 17
+40,Education,18–24,New User
+41,Education,18–24,Other
+42,Education,18–24,Unknown
+43,Education,25–34,Android
+44,Education,25–34,iOS 15
+45,Education,25–34,iOS 16
+46,Education,25–34,iOS 17
+47,Education,25–34,New User
+48,Education,25–34,Other
+49,Education,25–34,Unknown
+50,Education,35–44,Android
+51,Education,35–44,iOS 15
+52,Education,35–44,iOS 16
+53,Education,35–44,iOS 17
+54,Education,35–44,New User
+55,Education,35–44,Other
+56,Education,35–44,Unknown
+57,Education,45–54,Android
+58,Education,45–54,iOS 15
+59,Education,45–54,iOS 16
+60,Education,45–54,iOS 17
+61,Education,45–54,New User
+62,Education,45–54,Other
+63,Education,45–54,Unknown
+64,Education,55+,Android
+65,Education,55+,iOS 15
+66,Education,55+,iOS 16
+67,Education,55+,iOS 17
+68,Education,55+,New User
+69,Education,55+,Other
+70,Education,55+,Unknown
+71,Government,18–24,Android
+72,Government,18–24,iOS 15
+73,Government,18–24,iOS 16
+74,Government,18–24,iOS 17
+75,Government,18–24,New User
+76,Government,18–24,Other
+77,Government,18–24,Unknown
+78,Government,25–34,Android
+79,Government,25–34,iOS 15
+80,Government,25–34,iOS 16
+81,Government,25–34,iOS 17
+82,Government,25–34,New User
+83,Government,25–34,Other
+84,Government,25–34,Unknown
+85,Government,35–44,Android
+86,Government,35–44,iOS 15
+87,Government,35–44,iOS 16
+88,Government,35–44,iOS 17
+89,Government,35–44,New User
+90,Government,35–44,Other
+91,Government,35–44,Unknown
+92,Government,45–54,Android
+93,Government,45–54,iOS 15
+94,Government,45–54,iOS 16
+95,Government,45–54,iOS 17
+96,Government,45–54,New User
+97,Government,45–54,Other
+98,Government,45–54,Unknown
+99,Government,55+,Android
+100,Government,55+,iOS 15
+101,Government,55+,iOS 16
+102,Government,55+,iOS 17
+103,Government,55+,New User
+104,Government,55+,Other
+105,Government,55+,Unknown
+106,Individual,18–24,Android
+107,Individual,18–24,iOS 15
+108,Individual,18–24,iOS 16
+109,Individual,18–24,iOS 17
+110,Individual,18–24,New User
+111,Individual,18–24,Other
+112,Individual,18–24,Unknown
+113,Individual,25–34,Android
+114,Individual,25–34,iOS 15
+115,Individual,25–34,iOS 16
+116,Individual,25–34,iOS 17
+117,Individual,25–34,New User
+118,Individual,25–34,Other
+119,Individual,25–34,Unknown
+120,Individual,35–44,Android
+121,Individual,35–44,iOS 15
+122,Individual,35–44,iOS 16
+123,Individual,35–44,iOS 17
+124,Individual,35–44,New User
+125,Individual,35–44,Other
+126,Individual,35–44,Unknown
+127,Individual,45–54,Android
+128,Individual,45–54,iOS 15
+129,Individual,45–54,iOS 16
+130,Individual,45–54,iOS 17
+131,Individual,45–54,New User
+132,Individual,45–54,Other
+133,Individual,45–54,Unknown
+134,Individual,55+,Android
+135,Individual,55+,iOS 15
+136,Individual,55+,iOS 16
+137,Individual,55+,iOS 17
+138,Individual,55+,New User
+139,Individual,55+,Other
+140,Individual,55+,Unknown
